@@ -1,0 +1,45 @@
+{
+  "name": "@genx/web-ui",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.2",
+    "source-map-explorer": "^2.1.0"
+  },
+  "license": "MIT",
+  "main": "src/lib.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "^4.4.3",
+    "@storybook/addon-actions": "^5.2.1",
+    "@storybook/addon-links": "^5.2.1",
+    "@storybook/addons": "^5.2.1",
+    "@storybook/react": "^5.2.1",
+    "mobx": "^5.13.0",
+    "mobx-react": "^6.1.3"
+  }
+}
