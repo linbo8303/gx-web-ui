@@ -1,5 +1,6 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
+import { action } from '@storybook/addon-actions';
 
 import Sidebar, { SidebarController } from '.';
 import Box from '../../mockups/Box';
@@ -12,5 +13,8 @@ sidebarCtrl.showOnCollapsed = false;
 storiesOf('Component:Sidebar', module)
   .add('show on collapsed', () => (<Sidebar
     controller={sidebarCtrl}>
-    <Box><div>Block1</div><div><Button onClick={() => sidebarCtrl.toggleSidebarOpen(false)}>Close</Button></div></Box>
+    <Box><div>Block1</div><div><Button onClick={() => {
+        action('button clicked.');
+        sidebarCtrl.toggleSidebarOpen(false); 
+      } }>Close</Button></div></Box>
   </Sidebar>));

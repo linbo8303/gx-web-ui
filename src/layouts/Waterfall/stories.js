@@ -9,4 +9,14 @@ storiesOf('Layout:Waterfall', module)
     <Box>Block1</Box>
     <Box>Block2</Box>
     <Box>Block3</Box>
+  </Waterfall>))
+  .add('with hybrid blocks', () => (<Waterfall>
+    <Box>Block1</Box>
+    <Box>
+      <Waterfall>
+        <Box>Block2-1</Box>
+        <Box>Block2-2</Box>
+      </Waterfall>
+    </Box>
+    <Box>Block3</Box>
   </Waterfall>));

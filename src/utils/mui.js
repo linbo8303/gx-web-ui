@@ -1,17 +1,37 @@
-//v1.0.190425
-
 import React from 'react';
-import createMuiTheme from '@material-ui/core/styles/createMuiTheme';
-import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
+import ThemeProvider from '@material-ui/styles/ThemeProvider';
+import { makeStyles } from '@material-ui/core/styles';
 
-const withTheme = (Component, themeSetting) => {
-    const theme = typeof themeSetting === 'function' ? themeSetting : createMuiTheme(themeSetting);
+/**
+ * Material-UI helper utilities.
+ * @module MUI
+ */
 
+const theming = themeSetting => Component => {
     return (props) => (
-        <MuiThemeProvider theme={theme}>
+        <ThemeProvider theme={themeSetting}>
             <Component {...props} />
-        </MuiThemeProvider>
+        </ThemeProvider>
     );
 };
 
-export { withTheme };
+/**
+ * A creator function to return a JSS style object.
+ * @function module:MUI.stylesCreator
+ * @param {object} theme - MUI theme object
+ * @param {object} props - Runtiem properties used to create the style.
+ * @returns {object} JSS style object
+ */
+
+/**
+ * Create style object with options
+ * @param {module:MUI.stylesCreator} stylesCreator  
+ * @param {object} defaultProps 
+ * @param {*} [options] 
+ * @property {object} [options.defaultTheme] - The default theme to use if a theme isn't supplied through a Theme Provider.
+ * @property {string} [options.name] - The name of the style sheet. Useful for debugging. If the value isn't provided, it will try to fallback to the name of the component.
+ * @property {boolean} [options.flip] - When set to false, this sheet will opt-out the rtl transformation. When set to true, the styles are inversed. When set to null, it follows theme.direction.
+ */
+const makeStylesWithProps = (stylesCreator, defaultProps, options) => props => makeStyles(theme => stylesCreator(theme, defaultProps ? {...defaultProps, ...props} : props), options)();
+
+export { theming, makeStylesWithProps };

@@ -1,16 +1,18 @@
 import React from 'react';
-import { storiesOf } from '@storybook/react';
 
-import HolyGrail from '.';
-import Box from '../../mockups/Box';
+import HollyGrail, { makeStyles } from 'layouts/HollyGrail';
 
-storiesOf('Layout:HolyGrail', module)
-  .add('with placeholders', () => (<HolyGrail
-      leftSideWidth={360}
-      header={<Box>Header</Box>}
-      footer={<Box>Footer</Box>}
-      leftSide={<Box>Left Side</Box>}
-      rightSide={<Box>Right Side</Box>}
-  >
-    <Box>Content</Box>
-  </HolyGrail>));
+import { bodyText } from 'stories/mocking.data';
+import Box from 'mockups/Box';
+
+export default {
+  title: 'Layout - HollyGrail',
+};
+
+export const withDefaultSiderWidth = () => <HollyGrail classes={makeStyles()} header={
+  <Box>Header</Box>
+} leftSider={<Box>Left Sider</Box>}
+rightSider={<Box>Right Sider</Box>}
+footer={<Box>Footer</Box>}>
+  {bodyText()}
+</HollyGrail>;
