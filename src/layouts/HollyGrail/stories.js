@@ -16,3 +16,11 @@ rightSider={<Box>Right Sider</Box>}
 footer={<Box>Footer</Box>}>
   {bodyText()}
 </HollyGrail>;
+
+export const withSpecifiedSiderWidth = () => <HollyGrail classes={makeStyles({ leftSiderWidth: 400, rightSiderWidth: 200 })} header={
+  <Box>Header</Box>
+} leftSider={<Box>Left Sider</Box>}
+rightSider={<Box>Right Sider</Box>}
+footer={<Box>Footer</Box>}>
+  {bodyText()}
+</HollyGrail>;

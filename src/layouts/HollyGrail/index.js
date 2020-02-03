@@ -1,9 +1,7 @@
 //react
-import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import React from 'react';
 
 //hoc
-import { withStyles } from '@material-ui/styles';
 import { hBox, vBox } from '../../utils/flex';
 
 import { makeStylesWithProps } from 'utils/mui';
@@ -41,7 +39,8 @@ export const makeStyles = makeStylesWithProps((theme, props) => ({
 }), { leftSiderWidth: 240, rightSiderWidth: 240 });
 
 export default function HollyGrail(props) {
-    const { classes, header, children, leftSider, rightSider, footer } = props;
+    const { header, children, leftSider, rightSider, footer } = props;
+    const classes = props.classes || makeStyles();
 
     return (
         <div className={classes.root}>

@@ -1,0 +1,4463 @@
+{
+  "nodes": [
+    {
+      "id": "nbW0U78h",
+      "name": "数学",
+      "type": "taxonomy"
+    },
+    {
+      "id": "KrCeLv-1t",
+      "name": "初中数学",
+      "type": "taxonomy"
+    },
+    {
+      "id": "OSr5z7BxF",
+      "name": "学科素养",
+      "type": "skill"
+    },
+    {
+      "id": "SuVhBdWtV",
+      "name": "数感",
+      "type": "skill"
+    },
+    {
+      "id": "5KYu3CQBJ",
+      "name": "符号意识",
+      "type": "skill"
+    },
+    {
+      "id": "L6gX3wM5R",
+      "name": "正数和负数",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "0FL2nNWmj",
+      "name": "有理数定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "5XthugFUq",
+      "name": "数轴",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "ru3kYXSmd",
+      "name": "相反数",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "5uHCkoTRh",
+      "name": "绝对值",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "GIS-nbal2z",
+      "name": "近似数和有效数字",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "aipe0hMBw8",
+      "name": "倒数",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "d9mCk-PABC",
+      "name": "有理数的加法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "kTMmwFNBrr",
+      "name": "运算能力",
+      "type": "skill"
+    },
+    {
+      "id": "nWkXTHl1Gq",
+      "name": "加法运算律",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "RHUf5Ncu2I",
+      "name": "有理数的减法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "zX-35OYxUX",
+      "name": "加减混合运算",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "aRzCC8s2Gd",
+      "name": "加减混合运算的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "LdUDK1MzYp",
+      "name": "有理数的乘法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "wV2NBGDbj8",
+      "name": "乘法运算律",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Za5sNzhnN9",
+      "name": "有理数的除法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "q_5pR73Kmr",
+      "name": "乘除混合运算",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "_Z2TT5MFwp",
+      "name": "乘除混合运算的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "_R9clPBHWG",
+      "name": "乘方的定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "bfhZl8oiZk",
+      "name": "乘方的性质",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "LQ524DNpOQ",
+      "name": "非负数的性质：偶次方",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "dnPXgdljov",
+      "name": "科学计数法表示较小的数",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "NqTT60_NYU",
+      "name": "科学计数法表示较大的数",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "BceHn2gFof",
+      "name": "有理数的混合运算",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "XyTrgUfPhC",
+      "name": "有理数的混合运算的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "gpp-9_LA0S",
+      "name": "无理数定义",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "fQrAopeyqU",
+      "name": "算术平方根",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "9S8l2Vhjaq",
+      "name": "平方根的概念和性质",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "mgzHr2hg7O",
+      "name": "开平方",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "tLoiijzsjz",
+      "name": "用户计算器开平方",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "4fAzCfrKw0",
+      "name": "立方根的概念和性质",
+      "attributes": {
+        "masterLevel": " 了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "yAX8pQDTpy",
+      "name": "开立方",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "ziDeK_7WYR",
+      "name": "用计算器开立方",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "CH0G2mfC4N",
+      "name": "推理能力",
+      "type": "skill"
+    },
+    {
+      "id": "FVlMM1y3Mv",
+      "name": "实数的概念和性质",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "_S76Xq6C1y",
+      "name": "实数和数轴的对应关系",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "FEK2hTdE6z",
+      "name": "实数的大小比较",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "gNoyuIAw7I",
+      "name": "无理数估算",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "doSROx1tYf",
+      "name": "实数的运算",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "oGI63QS7ml",
+      "name": "单项式",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "kSvOZQgrmA",
+      "name": "多项式",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "tqyLZAsyVO",
+      "name": "整式的定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "HlMqJTcvhu",
+      "name": "同类项",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "3N04Zk2irl",
+      "name": "幂的排列",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "unmSnfk76I",
+      "name": "去括号",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "FLoWLhfx4X",
+      "name": "添括号",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "-2Aieu91Y7",
+      "name": "合并同类项",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "ehWkkmiaHk",
+      "name": "整式的加减和化简求值",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "eP0x3abHae",
+      "name": "积的乘方",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "dlGhiwO36g",
+      "name": "幂的乘方",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Jzv32n2oJd",
+      "name": "同底数幂的乘法",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "zvdI2X2KaQ",
+      "name": "同底数幂的除法",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "9qETF0Os5w",
+      "name": "零指数幂",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "3ELQcVNsIn",
+      "name": "单项式乘以单项式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "uqWcNzmvrr",
+      "name": "单项式乘以多项式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Ru8BzoTOVE",
+      "name": "多项式乘以多项式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "7xdBHVt4UZ",
+      "name": "完全平方公式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Btx9yp_LZG",
+      "name": "平方差公式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "uMLCIlUADv",
+      "name": "单项式除以单项式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "EmnTMb5BoR",
+      "name": "多项式除以多项式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "RI1Gtd255A",
+      "name": "整式的乘除混合运算",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "nNqKuJcQXd",
+      "name": "因式分解的意义",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "FT9FeMrGF9",
+      "name": "公因式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "dZ1jkMkNLX",
+      "name": "提公因式法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "GWC6qhna6z",
+      "name": "公式法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "b8WLSClsAd",
+      "name": "十字相乘法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "ajq2shNbnI",
+      "name": "因式分解的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "hCzKuUPeCy",
+      "name": "分式有意义的条件",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "lTTZPd4X2y",
+      "name": "分式值为0的条件",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "zHWD47IZlC",
+      "name": "分式的值",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "G56xRLGP2c",
+      "name": "约分",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "AlQN4gtg-t",
+      "name": "最简分式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "KB797HNXKR",
+      "name": "通分",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "oZoijrs0hI",
+      "name": "最简公分母",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "73VjHtP2o5",
+      "name": "分式的乘除法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "RZTmsYOW8m",
+      "name": "分式的乘方",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "FLjg7M04vI",
+      "name": "负整数指数幂",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "YRFRKPGNhC",
+      "name": "分式的加减法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "7_rS6X942h",
+      "name": "分式的混合运算",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "megsj25t5N",
+      "name": "分式的化简求值",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "zaScP4JA66",
+      "name": "二次根式有意义的条件",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "YQTk_VNujs",
+      "name": "二次根式的性质与化简",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "_tpgedFqYd",
+      "name": "二次根式的乘除法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "mYY3niaQ8c",
+      "name": "分母有理化",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "-3xngz1eSn",
+      "name": "最简二次根式",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "kKyps4Brxx",
+      "name": "二次根式的加减法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "7m-ppgil5z",
+      "name": "同类二次根式",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "8y4bEcS-On",
+      "name": "二次根式的混合运算",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "X_YLeeYzwo",
+      "name": "二次根式的化简求值",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "5G3o1boVd2",
+      "name": "二次根式的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "4yvHBZHBUH",
+      "name": "用字母表示数",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "ixoYOosLJV",
+      "name": "列代数式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "8awtZGy6R4",
+      "name": "代数式求值",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Xx8BayuEMd",
+      "name": "定义新运算",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "urZpC5TJYI",
+      "name": "应用意识",
+      "type": "skill"
+    },
+    {
+      "id": "kOjZ1QlrBd",
+      "name": "探索数与式的规律",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "WIT4ayXCVN",
+      "name": "探索数字变化规律",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "8vlUB-C2CG",
+      "name": "探索图形变化规律",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Mh9n-ummQp",
+      "name": " 数感",
+      "type": "skill"
+    },
+    {
+      "id": "OlXTX30-_M",
+      "name": "方程的定义",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "sVd-l0UXwV",
+      "name": " 推理能力",
+      "type": "skill"
+    },
+    {
+      "id": "glJ1FDyVTf",
+      "name": "方程的解",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "ptsTQ_uVCT",
+      "name": "等式的性质",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "20LvUD-118",
+      "name": "一元一次方程的定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Vjfg721k1V",
+      "name": "根据数量关系列出方程",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "dLugEuP8fP",
+      "name": "估计方程的解",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "_FD6rM-IyW",
+      "name": "合并同类项",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "kZ8HSTRb_G",
+      "name": "移项",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "zHie61ofUr",
+      "name": "去括号",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "UgGTEd0inM",
+      "name": "去分母",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "eH-JXIPuzi",
+      "name": "求解含绝对值的一元一次方程",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "OWASXzhr-a",
+      "name": "同解方程",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "4DN6pZ2chW",
+      "name": "模型思想",
+      "type": "skill"
+    },
+    {
+      "id": "kSSUQEvMCZ",
+      "name": "一元一次方程的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Q2HeQBF_My",
+      "name": "一元二次方程的定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "eYALofbtBv",
+      "name": "一元二次方程的一般形式",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "WNtta6ZfAy",
+      "name": "一元二次方程的解",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "LHjW6jspj0",
+      "name": "直接开平方法",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "6O6AcwmsbU",
+      "name": "配方法",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "e00et6f6dL",
+      "name": "根的判别式",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "JwbLfLkcEU",
+      "name": "根与系数的关系",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "y-Dl7Fvaid",
+      "name": "因式分解法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "568XV2PI8m",
+      "name": "一元二次方程的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "BWqje-T7K7",
+      "name": "分式方程的定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "7_vJJ-EH8H",
+      "name": "换元法解分式方程",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "623FlVXCaU",
+      "name": "分式方程的增根",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "UWi04lVlwt",
+      "name": "分式方程的应用",
+      "attributes": {
+        "masterLevel": "应用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "D4qkGHtqJ1",
+      "name": "二元一次方程的定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "G1xUSuelSP",
+      "name": "二元一次方程的解",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "QBQ-kLLUVt",
+      "name": "解二元一次方程",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "ZSJkzLTjsR",
+      "name": "二元一次方程的应用",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "7CkhhJzf9T",
+      "name": "二元一次方程组的定义",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "3pi0aYhfte",
+      "name": "二元一次方程组的解",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "yg7rp9svaI",
+      "name": "代入消元法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "pcETud9232",
+      "name": "加减消元法",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "btNvUkgYXo",
+      "name": "二元一次方程组的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "bwFCU5de1u",
+      "name": "同解方程组",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "5HyLxM2H6l",
+      "name": "三元一次方程组的定义",
+      "attributes": {
+        "masterLevel": "理解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "_osTXde8JY",
+      "name": "解三元一次方程组",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "w4LiuNDrhY",
+      "name": "三元一次方程组的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "F77HypBcxZ",
+      "name": "不等式的定义",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "M6VhhIedMM",
+      "name": "不等式的性质",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "fft8daUKu5",
+      "name": "不等式的解集",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "xZivKZIpDp",
+      "name": "在数轴上表示不等式（组）的解集",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "h_srUVsRRe",
+      "name": "一元一次不等式的定义",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "1mp4NHIZHZ",
+      "name": "一元一次不等式的整数解",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "NIu6gMtdEp",
+      "name": "一元一次不等式的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "XAcxZN9g2u",
+      "name": "一元一次不等式组的定义",
+      "attributes": {
+        "masterLevel": "了解"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "4l_YIAGOau",
+      "name": "一元一次不等式组的整数解",
+      "attributes": {
+        "masterLevel": "掌握"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "nqg4wXPovI",
+      "name": "一元一次不等式组的应用",
+      "attributes": {
+        "masterLevel": "运用"
+      },
+      "type": "knowledge"
+    },
+    {
+      "id": "Ea40PeUsEB",
+      "name": "数与式",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "EelX5CrFGy",
+      "name": "有理数",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "igHT9q6w03",
+      "name": "有理数的加减法",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "KHX_Npu3oc",
+      "name": "有理数的乘除法",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "qLtqAFG9qR",
+      "name": "有理数的乘方",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "-QVJN_-t96",
+      "name": "科学计数法",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "IY-wZcr-PL",
+      "name": "有理数的混合运算及其应用",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "-DdwPQkf6a",
+      "name": "无理数",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "domBkv4i6X",
+      "name": "平方根",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "oxW85YPRV5",
+      "name": "立方根",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "s_IDzALmjf",
+      "name": "实数",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "J2QQxUhUys",
+      "name": "整式",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "r018OZ2UM6",
+      "name": "整式的相关概念",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "Iywz7_tZjJ",
+      "name": "整式的加减",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "7355NSXJQ8",
+      "name": "整式的乘除",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "sl9en2ghJh",
+      "name": "整式的幂运算",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "0ucx47kAj1",
+      "name": "整式的乘法",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "BZtN9ikIE4",
+      "name": "整式的除法",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "ZOa_Qc6Ols",
+      "name": "因式分解",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "HT4aBm4yYg",
+      "name": "分式",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "Lfk-TWZ37A",
+      "name": "分式的定义",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "UpfZiEklBY",
+      "name": "分式的基本性质",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "nXUyZlRyqY",
+      "name": "分式的运算",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "vxul-ZQjtO",
+      "name": "二次根式",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "ej0nsXiL4K",
+      "name": "二次根式的定义",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "97evL_gNja",
+      "name": "二次根式的运算",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "PHnLxAoAeF",
+      "name": "代数式",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "4cWPTtuFR4",
+      "name": "方程（组）与不等式（组）",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "xQ1V8fKleH",
+      "name": "一元一次方程及其应用",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "TOUwVP6ZCf",
+      "name": "解一元一次方程",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "ti8k6dGTZU",
+      "name": "一元二次方程",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "hTnF-KiYhy",
+      "name": "一元二次方程的定义",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "Kw2F4NF5ft",
+      "name": "解一元二次方程",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "-7zuVdqQph",
+      "name": "公式法",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "LM23fwk2PU",
+      "name": "分式方程及其应用",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "vR04kdR1kB",
+      "name": "解分式方程",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "jXF7uaAr4p",
+      "name": "二元一次方程（组）",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "zxYRByH0sI",
+      "name": "二元一次方程",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "OfGre87vAF",
+      "name": "二元一次方程组",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "FJsAoNl5ny",
+      "name": "解二元一次方程组",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "k7kBKNHf-7",
+      "name": "三元一次方程组",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "qJkZicfJMe",
+      "name": "一元一次不等式（组）及其应用",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "yPFirMFHOl",
+      "name": "不等式（组）",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "wmKy2gAqF_",
+      "name": "一元一次不等式",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "s8AOA0BV97",
+      "name": "解一元一次不等式",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "vSFZcq84C1",
+      "name": "一元一次不等式组",
+      "type": "knowledgeTaxonomy"
+    },
+    {
+      "id": "-6Pha2ekkM",
+      "name": "解一元一次不等式组",
+      "type": "knowledgeTaxonomy"
+    }
+  ],
+  "edges": [
+    {
+      "source": "KrCeLv-1t",
+      "target": "nbW0U78h",
+      "relation": "parent"
+    },
+    {
+      "source": "OSr5z7BxF",
+      "target": "nbW0U78h",
+      "relation": "parent"
+    },
+    {
+      "source": "SuVhBdWtV",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "L6gX3wM5R",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5KYu3CQBJ",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "L6gX3wM5R",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "0FL2nNWmj",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5XthugFUq",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5XthugFUq",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ru3kYXSmd",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ru3kYXSmd",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5uHCkoTRh",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5uHCkoTRh",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "GIS-nbal2z",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "GIS-nbal2z",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "aipe0hMBw8",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "aipe0hMBw8",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "d9mCk-PABC",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "d9mCk-PABC",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "nWkXTHl1Gq",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "nWkXTHl1Gq",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kTMmwFNBrr",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "nWkXTHl1Gq",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "RHUf5Ncu2I",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "RHUf5Ncu2I",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "zX-35OYxUX",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "zX-35OYxUX",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "aRzCC8s2Gd",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "aRzCC8s2Gd",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "aRzCC8s2Gd",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "LdUDK1MzYp",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "LdUDK1MzYp",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "wV2NBGDbj8",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "wV2NBGDbj8",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "wV2NBGDbj8",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Za5sNzhnN9",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Za5sNzhnN9",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "q_5pR73Kmr",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "q_5pR73Kmr",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "q_5pR73Kmr",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_Z2TT5MFwp",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_Z2TT5MFwp",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_Z2TT5MFwp",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_R9clPBHWG",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_R9clPBHWG",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "bfhZl8oiZk",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "bfhZl8oiZk",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "LQ524DNpOQ",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "LQ524DNpOQ",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "dnPXgdljov",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "dnPXgdljov",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "NqTT60_NYU",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "NqTT60_NYU",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "BceHn2gFof",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "BceHn2gFof",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "BceHn2gFof",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "XyTrgUfPhC",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "XyTrgUfPhC",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "XyTrgUfPhC",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "gpp-9_LA0S",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "fQrAopeyqU",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "9S8l2Vhjaq",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "mgzHr2hg7O",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "tLoiijzsjz",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "4fAzCfrKw0",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "yAX8pQDTpy",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ziDeK_7WYR",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "CH0G2mfC4N",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "FVlMM1y3Mv",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FVlMM1y3Mv",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_S76Xq6C1y",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FEK2hTdE6z",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "gNoyuIAw7I",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "gNoyuIAw7I",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "oGI63QS7ml",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kSvOZQgrmA",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "tqyLZAsyVO",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "HlMqJTcvhu",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "3N04Zk2irl",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "unmSnfk76I",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "unmSnfk76I",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FLoWLhfx4X",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FLoWLhfx4X",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "-2Aieu91Y7",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "-2Aieu91Y7",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ehWkkmiaHk",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ehWkkmiaHk",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "eP0x3abHae",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "dlGhiwO36g",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Jzv32n2oJd",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "zvdI2X2KaQ",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "9qETF0Os5w",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "nNqKuJcQXd",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FT9FeMrGF9",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FT9FeMrGF9",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "dZ1jkMkNLX",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "dZ1jkMkNLX",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "GWC6qhna6z",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "GWC6qhna6z",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "b8WLSClsAd",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ajq2shNbnI",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "hCzKuUPeCy",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "lTTZPd4X2y",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "zHWD47IZlC",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "G56xRLGP2c",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "G56xRLGP2c",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "AlQN4gtg-t",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "KB797HNXKR",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "KB797HNXKR",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "oZoijrs0hI",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "RZTmsYOW8m",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "RZTmsYOW8m",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FLjg7M04vI",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "FLjg7M04vI",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7_rS6X942h",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7_rS6X942h",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "megsj25t5N",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "megsj25t5N",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "zaScP4JA66",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "zaScP4JA66",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "YQTk_VNujs",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "YQTk_VNujs",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_tpgedFqYd",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_tpgedFqYd",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "mYY3niaQ8c",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "mYY3niaQ8c",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "-3xngz1eSn",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kKyps4Brxx",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kKyps4Brxx",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7m-ppgil5z",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "8y4bEcS-On",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "8y4bEcS-On",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "X_YLeeYzwo",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "X_YLeeYzwo",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5G3o1boVd2",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5G3o1boVd2",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "4yvHBZHBUH",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "4yvHBZHBUH",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ixoYOosLJV",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ixoYOosLJV",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "8awtZGy6R4",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "8awtZGy6R4",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Xx8BayuEMd",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Xx8BayuEMd",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kOjZ1QlrBd",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kOjZ1QlrBd",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "urZpC5TJYI",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "kOjZ1QlrBd",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "WIT4ayXCVN",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "WIT4ayXCVN",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "WIT4ayXCVN",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "8vlUB-C2CG",
+      "target": "SuVhBdWtV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "8vlUB-C2CG",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "8vlUB-C2CG",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Mh9n-ummQp",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "OlXTX30-_M",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "OlXTX30-_M",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "OlXTX30-_M",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "sVd-l0UXwV",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "glJ1FDyVTf",
+      "target": "sVd-l0UXwV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ptsTQ_uVCT",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ptsTQ_uVCT",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ptsTQ_uVCT",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "20LvUD-118",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "20LvUD-118",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "20LvUD-118",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Vjfg721k1V",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Vjfg721k1V",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Vjfg721k1V",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "dLugEuP8fP",
+      "target": "sVd-l0UXwV",
+      "relation": "withSkill"
+    },
+    {
+      "source": "dLugEuP8fP",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_FD6rM-IyW",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kZ8HSTRb_G",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "zHie61ofUr",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "UgGTEd0inM",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "eH-JXIPuzi",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "OWASXzhr-a",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "4DN6pZ2chW",
+      "target": "OSr5z7BxF",
+      "relation": "parent"
+    },
+    {
+      "source": "kSSUQEvMCZ",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "kSSUQEvMCZ",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Q2HeQBF_My",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Q2HeQBF_My",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Q2HeQBF_My",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "eYALofbtBv",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "eYALofbtBv",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "eYALofbtBv",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "WNtta6ZfAy",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "WNtta6ZfAy",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "LHjW6jspj0",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "6O6AcwmsbU",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "e00et6f6dL",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "JwbLfLkcEU",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "y-Dl7Fvaid",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "568XV2PI8m",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "568XV2PI8m",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "BWqje-T7K7",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "BWqje-T7K7",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "BWqje-T7K7",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "UWi04lVlwt",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "UWi04lVlwt",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "D4qkGHtqJ1",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "D4qkGHtqJ1",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "D4qkGHtqJ1",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "G1xUSuelSP",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "G1xUSuelSP",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "QBQ-kLLUVt",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ZSJkzLTjsR",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "ZSJkzLTjsR",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7CkhhJzf9T",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7CkhhJzf9T",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "7CkhhJzf9T",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "3pi0aYhfte",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "3pi0aYhfte",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "yg7rp9svaI",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "yg7rp9svaI",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "pcETud9232",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "pcETud9232",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "btNvUkgYXo",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "btNvUkgYXo",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "bwFCU5de1u",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "bwFCU5de1u",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5HyLxM2H6l",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5HyLxM2H6l",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "5HyLxM2H6l",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_osTXde8JY",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "_osTXde8JY",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "w4LiuNDrhY",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "w4LiuNDrhY",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "F77HypBcxZ",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "F77HypBcxZ",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "F77HypBcxZ",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "M6VhhIedMM",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "M6VhhIedMM",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "fft8daUKu5",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "fft8daUKu5",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "xZivKZIpDp",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "xZivKZIpDp",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "h_srUVsRRe",
+      "target": "Mh9n-ummQp",
+      "relation": "withSkill"
+    },
+    {
+      "source": "h_srUVsRRe",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "h_srUVsRRe",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "1mp4NHIZHZ",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "1mp4NHIZHZ",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "NIu6gMtdEp",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "NIu6gMtdEp",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "XAcxZN9g2u",
+      "target": "5KYu3CQBJ",
+      "relation": "withSkill"
+    },
+    {
+      "source": "XAcxZN9g2u",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "4l_YIAGOau",
+      "target": "CH0G2mfC4N",
+      "relation": "withSkill"
+    },
+    {
+      "source": "4l_YIAGOau",
+      "target": "kTMmwFNBrr",
+      "relation": "withSkill"
+    },
+    {
+      "source": "nqg4wXPovI",
+      "target": "4DN6pZ2chW",
+      "relation": "withSkill"
+    },
+    {
+      "source": "nqg4wXPovI",
+      "target": "urZpC5TJYI",
+      "relation": "withSkill"
+    },
+    {
+      "source": "Ea40PeUsEB",
+      "target": "KrCeLv-1t",
+      "relation": "parent"
+    },
+    {
+      "source": "EelX5CrFGy",
+      "target": "Ea40PeUsEB",
+      "relation": "parent"
+    },
+    {
+      "source": "L6gX3wM5R",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "0FL2nNWmj",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "5XthugFUq",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "ru3kYXSmd",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "5uHCkoTRh",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "GIS-nbal2z",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "aipe0hMBw8",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "igHT9q6w03",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "d9mCk-PABC",
+      "target": "igHT9q6w03",
+      "relation": "parent"
+    },
+    {
+      "source": "nWkXTHl1Gq",
+      "target": "igHT9q6w03",
+      "relation": "parent"
+    },
+    {
+      "source": "RHUf5Ncu2I",
+      "target": "igHT9q6w03",
+      "relation": "parent"
+    },
+    {
+      "source": "zX-35OYxUX",
+      "target": "igHT9q6w03",
+      "relation": "parent"
+    },
+    {
+      "source": "aRzCC8s2Gd",
+      "target": "igHT9q6w03",
+      "relation": "parent"
+    },
+    {
+      "source": "KHX_Npu3oc",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "LdUDK1MzYp",
+      "target": "KHX_Npu3oc",
+      "relation": "parent"
+    },
+    {
+      "source": "wV2NBGDbj8",
+      "target": "KHX_Npu3oc",
+      "relation": "parent"
+    },
+    {
+      "source": "Za5sNzhnN9",
+      "target": "KHX_Npu3oc",
+      "relation": "parent"
+    },
+    {
+      "source": "q_5pR73Kmr",
+      "target": "KHX_Npu3oc",
+      "relation": "parent"
+    },
+    {
+      "source": "_Z2TT5MFwp",
+      "target": "KHX_Npu3oc",
+      "relation": "parent"
+    },
+    {
+      "source": "qLtqAFG9qR",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "_R9clPBHWG",
+      "target": "qLtqAFG9qR",
+      "relation": "parent"
+    },
+    {
+      "source": "bfhZl8oiZk",
+      "target": "qLtqAFG9qR",
+      "relation": "parent"
+    },
+    {
+      "source": "LQ524DNpOQ",
+      "target": "qLtqAFG9qR",
+      "relation": "parent"
+    },
+    {
+      "source": "-QVJN_-t96",
+      "target": "qLtqAFG9qR",
+      "relation": "parent"
+    },
+    {
+      "source": "dnPXgdljov",
+      "target": "-QVJN_-t96",
+      "relation": "parent"
+    },
+    {
+      "source": "NqTT60_NYU",
+      "target": "-QVJN_-t96",
+      "relation": "parent"
+    },
+    {
+      "source": "IY-wZcr-PL",
+      "target": "EelX5CrFGy",
+      "relation": "parent"
+    },
+    {
+      "source": "BceHn2gFof",
+      "target": "IY-wZcr-PL",
+      "relation": "parent"
+    },
+    {
+      "source": "XyTrgUfPhC",
+      "target": "IY-wZcr-PL",
+      "relation": "parent"
+    },
+    {
+      "source": "-DdwPQkf6a",
+      "target": "Ea40PeUsEB",
+      "relation": "parent"
+    },
+    {
+      "source": "gpp-9_LA0S",
+      "target": "-DdwPQkf6a",
+      "relation": "parent"
+    },
+    {
+      "source": "domBkv4i6X",
+      "target": "-DdwPQkf6a",
+      "relation": "parent"
+    },
+    {
+      "source": "fQrAopeyqU",
+      "target": "domBkv4i6X",
+      "relation": "parent"
+    },
+    {
+      "source": "9S8l2Vhjaq",
+      "target": "domBkv4i6X",
+      "relation": "parent"
+    },
+    {
+      "source": "mgzHr2hg7O",
+      "target": "domBkv4i6X",
+      "relation": "parent"
+    },
+    {
+      "source": "tLoiijzsjz",
+      "target": "domBkv4i6X",
+      "relation": "parent"
+    },
+    {
+      "source": "oxW85YPRV5",
+      "target": "-DdwPQkf6a",
+      "relation": "parent"
+    },
+    {
+      "source": "4fAzCfrKw0",
+      "target": "oxW85YPRV5",
+      "relation": "parent"
+    },
+    {
+      "source": "yAX8pQDTpy",
+      "target": "oxW85YPRV5",
+      "relation": "parent"
+    },
+    {
+      "source": "ziDeK_7WYR",
+      "target": "oxW85YPRV5",
+      "relation": "parent"
+    },
+    {
+      "source": "s_IDzALmjf",
+      "target": "Ea40PeUsEB",
+      "relation": "parent"
+    },
+    {
+      "source": "FVlMM1y3Mv",
+      "target": "s_IDzALmjf",
+      "relation": "parent"
+    },
+    {
+      "source": "_S76Xq6C1y",
+      "target": "s_IDzALmjf",
+      "relation": "parent"
+    },
+    {
+      "source": "FEK2hTdE6z",
+      "target": "s_IDzALmjf",
+      "relation": "parent"
+    },
+    {
+      "source": "gNoyuIAw7I",
+      "target": "s_IDzALmjf",
+      "relation": "parent"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "s_IDzALmjf",
+      "relation": "parent"
+    },
+    {
+      "source": "J2QQxUhUys",
+      "target": "Ea40PeUsEB",
+      "relation": "parent"
+    },
+    {
+      "source": "r018OZ2UM6",
+      "target": "J2QQxUhUys",
+      "relation": "parent"
+    },
+    {
+      "source": "oGI63QS7ml",
+      "target": "r018OZ2UM6",
+      "relation": "parent"
+    },
+    {
+      "source": "kSvOZQgrmA",
+      "target": "r018OZ2UM6",
+      "relation": "parent"
+    },
+    {
+      "source": "tqyLZAsyVO",
+      "target": "r018OZ2UM6",
+      "relation": "parent"
+    },
+    {
+      "source": "HlMqJTcvhu",
+      "target": "r018OZ2UM6",
+      "relation": "parent"
+    },
+    {
+      "source": "3N04Zk2irl",
+      "target": "r018OZ2UM6",
+      "relation": "parent"
+    },
+    {
+      "source": "Iywz7_tZjJ",
+      "target": "J2QQxUhUys",
+      "relation": "parent"
+    },
+    {
+      "source": "unmSnfk76I",
+      "target": "Iywz7_tZjJ",
+      "relation": "parent"
+    },
+    {
+      "source": "FLoWLhfx4X",
+      "target": "Iywz7_tZjJ",
+      "relation": "parent"
+    },
+    {
+      "source": "-2Aieu91Y7",
+      "target": "Iywz7_tZjJ",
+      "relation": "parent"
+    },
+    {
+      "source": "ehWkkmiaHk",
+      "target": "Iywz7_tZjJ",
+      "relation": "parent"
+    },
+    {
+      "source": "7355NSXJQ8",
+      "target": "J2QQxUhUys",
+      "relation": "parent"
+    },
+    {
+      "source": "sl9en2ghJh",
+      "target": "7355NSXJQ8",
+      "relation": "parent"
+    },
+    {
+      "source": "eP0x3abHae",
+      "target": "sl9en2ghJh",
+      "relation": "parent"
+    },
+    {
+      "source": "dlGhiwO36g",
+      "target": "sl9en2ghJh",
+      "relation": "parent"
+    },
+    {
+      "source": "Jzv32n2oJd",
+      "target": "sl9en2ghJh",
+      "relation": "parent"
+    },
+    {
+      "source": "zvdI2X2KaQ",
+      "target": "sl9en2ghJh",
+      "relation": "parent"
+    },
+    {
+      "source": "9qETF0Os5w",
+      "target": "sl9en2ghJh",
+      "relation": "parent"
+    },
+    {
+      "source": "0ucx47kAj1",
+      "target": "7355NSXJQ8",
+      "relation": "parent"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "0ucx47kAj1",
+      "relation": "parent"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "0ucx47kAj1",
+      "relation": "parent"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "0ucx47kAj1",
+      "relation": "parent"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "0ucx47kAj1",
+      "relation": "parent"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "0ucx47kAj1",
+      "relation": "parent"
+    },
+    {
+      "source": "BZtN9ikIE4",
+      "target": "7355NSXJQ8",
+      "relation": "parent"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "BZtN9ikIE4",
+      "relation": "parent"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "BZtN9ikIE4",
+      "relation": "parent"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "BZtN9ikIE4",
+      "relation": "parent"
+    },
+    {
+      "source": "ZOa_Qc6Ols",
+      "target": "J2QQxUhUys",
+      "relation": "parent"
+    },
+    {
+      "source": "nNqKuJcQXd",
+      "target": "ZOa_Qc6Ols",
+      "relation": "parent"
+    },
+    {
+      "source": "FT9FeMrGF9",
+      "target": "ZOa_Qc6Ols",
+      "relation": "parent"
+    },
+    {
+      "source": "dZ1jkMkNLX",
+      "target": "ZOa_Qc6Ols",
+      "relation": "parent"
+    },
+    {
+      "source": "GWC6qhna6z",
+      "target": "ZOa_Qc6Ols",
+      "relation": "parent"
+    },
+    {
+      "source": "b8WLSClsAd",
+      "target": "ZOa_Qc6Ols",
+      "relation": "parent"
+    },
+    {
+      "source": "ajq2shNbnI",
+      "target": "ZOa_Qc6Ols",
+      "relation": "parent"
+    },
+    {
+      "source": "HT4aBm4yYg",
+      "target": "Ea40PeUsEB",
+      "relation": "parent"
+    },
+    {
+      "source": "Lfk-TWZ37A",
+      "target": "HT4aBm4yYg",
+      "relation": "parent"
+    },
+    {
+      "source": "hCzKuUPeCy",
+      "target": "Lfk-TWZ37A",
+      "relation": "parent"
+    },
+    {
+      "source": "lTTZPd4X2y",
+      "target": "Lfk-TWZ37A",
+      "relation": "parent"
+    },
+    {
+      "source": "zHWD47IZlC",
+      "target": "Lfk-TWZ37A",
+      "relation": "parent"
+    },
+    {
+      "source": "UpfZiEklBY",
+      "target": "HT4aBm4yYg",
+      "relation": "parent"
+    },
+    {
+      "source": "G56xRLGP2c",
+      "target": "UpfZiEklBY",
+      "relation": "parent"
+    },
+    {
+      "source": "AlQN4gtg-t",
+      "target": "UpfZiEklBY",
+      "relation": "parent"
+    },
+    {
+      "source": "KB797HNXKR",
+      "target": "UpfZiEklBY",
+      "relation": "parent"
+    },
+    {
+      "source": "oZoijrs0hI",
+      "target": "UpfZiEklBY",
+      "relation": "parent"
+    },
+    {
+      "source": "nXUyZlRyqY",
+      "target": "HT4aBm4yYg",
+      "relation": "parent"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "nXUyZlRyqY",
+      "relation": "parent"
+    },
+    {
+      "source": "RZTmsYOW8m",
+      "target": "nXUyZlRyqY",
+      "relation": "parent"
+    },
+    {
+      "source": "FLjg7M04vI",
+      "target": "nXUyZlRyqY",
+      "relation": "parent"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "nXUyZlRyqY",
+      "relation": "parent"
+    },
+    {
+      "source": "7_rS6X942h",
+      "target": "nXUyZlRyqY",
+      "relation": "parent"
+    },
+    {
+      "source": "megsj25t5N",
+      "target": "nXUyZlRyqY",
+      "relation": "parent"
+    },
+    {
+      "source": "vxul-ZQjtO",
+      "target": "Ea40PeUsEB",
+      "relation": "parent"
+    },
+    {
+      "source": "ej0nsXiL4K",
+      "target": "vxul-ZQjtO",
+      "relation": "parent"
+    },
+    {
+      "source": "zaScP4JA66",
+      "target": "ej0nsXiL4K",
+      "relation": "parent"
+    },
+    {
+      "source": "YQTk_VNujs",
+      "target": "vxul-ZQjtO",
+      "relation": "parent"
+    },
+    {
+      "source": "97evL_gNja",
+      "target": "vxul-ZQjtO",
+      "relation": "parent"
+    },
+    {
+      "source": "_tpgedFqYd",
+      "target": "97evL_gNja",
+      "relation": "parent"
+    },
+    {
+      "source": "mYY3niaQ8c",
+      "target": "97evL_gNja",
+      "relation": "parent"
+    },
+    {
+      "source": "-3xngz1eSn",
+      "target": "97evL_gNja",
+      "relation": "parent"
+    },
+    {
+      "source": "kKyps4Brxx",
+      "target": "97evL_gNja",
+      "relation": "parent"
+    },
+    {
+      "source": "7m-ppgil5z",
+      "target": "97evL_gNja",
+      "relation": "parent"
+    },
+    {
+      "source": "8y4bEcS-On",
+      "target": "97evL_gNja",
+      "relation": "parent"
+    },
+    {
+      "source": "X_YLeeYzwo",
+      "target": "97evL_gNja",
+      "relation": "parent"
+    },
+    {
+      "source": "5G3o1boVd2",
+      "target": "vxul-ZQjtO",
+      "relation": "parent"
+    },
+    {
+      "source": "PHnLxAoAeF",
+      "target": "Ea40PeUsEB",
+      "relation": "parent"
+    },
+    {
+      "source": "4yvHBZHBUH",
+      "target": "PHnLxAoAeF",
+      "relation": "parent"
+    },
+    {
+      "source": "ixoYOosLJV",
+      "target": "PHnLxAoAeF",
+      "relation": "parent"
+    },
+    {
+      "source": "8awtZGy6R4",
+      "target": "PHnLxAoAeF",
+      "relation": "parent"
+    },
+    {
+      "source": "Xx8BayuEMd",
+      "target": "PHnLxAoAeF",
+      "relation": "parent"
+    },
+    {
+      "source": "kOjZ1QlrBd",
+      "target": "PHnLxAoAeF",
+      "relation": "parent"
+    },
+    {
+      "source": "WIT4ayXCVN",
+      "target": "PHnLxAoAeF",
+      "relation": "parent"
+    },
+    {
+      "source": "8vlUB-C2CG",
+      "target": "PHnLxAoAeF",
+      "relation": "parent"
+    },
+    {
+      "source": "4cWPTtuFR4",
+      "target": "KrCeLv-1t",
+      "relation": "parent"
+    },
+    {
+      "source": "xQ1V8fKleH",
+      "target": "4cWPTtuFR4",
+      "relation": "parent"
+    },
+    {
+      "source": "OlXTX30-_M",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "glJ1FDyVTf",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "ptsTQ_uVCT",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "20LvUD-118",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "Vjfg721k1V",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "dLugEuP8fP",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "TOUwVP6ZCf",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "_FD6rM-IyW",
+      "target": "TOUwVP6ZCf",
+      "relation": "parent"
+    },
+    {
+      "source": "kZ8HSTRb_G",
+      "target": "TOUwVP6ZCf",
+      "relation": "parent"
+    },
+    {
+      "source": "zHie61ofUr",
+      "target": "TOUwVP6ZCf",
+      "relation": "parent"
+    },
+    {
+      "source": "UgGTEd0inM",
+      "target": "TOUwVP6ZCf",
+      "relation": "parent"
+    },
+    {
+      "source": "eH-JXIPuzi",
+      "target": "TOUwVP6ZCf",
+      "relation": "parent"
+    },
+    {
+      "source": "OWASXzhr-a",
+      "target": "TOUwVP6ZCf",
+      "relation": "parent"
+    },
+    {
+      "source": "kSSUQEvMCZ",
+      "target": "xQ1V8fKleH",
+      "relation": "parent"
+    },
+    {
+      "source": "ti8k6dGTZU",
+      "target": "4cWPTtuFR4",
+      "relation": "parent"
+    },
+    {
+      "source": "hTnF-KiYhy",
+      "target": "ti8k6dGTZU",
+      "relation": "parent"
+    },
+    {
+      "source": "Q2HeQBF_My",
+      "target": "hTnF-KiYhy",
+      "relation": "parent"
+    },
+    {
+      "source": "eYALofbtBv",
+      "target": "hTnF-KiYhy",
+      "relation": "parent"
+    },
+    {
+      "source": "WNtta6ZfAy",
+      "target": "hTnF-KiYhy",
+      "relation": "parent"
+    },
+    {
+      "source": "Kw2F4NF5ft",
+      "target": "ti8k6dGTZU",
+      "relation": "parent"
+    },
+    {
+      "source": "LHjW6jspj0",
+      "target": "Kw2F4NF5ft",
+      "relation": "parent"
+    },
+    {
+      "source": "6O6AcwmsbU",
+      "target": "Kw2F4NF5ft",
+      "relation": "parent"
+    },
+    {
+      "source": "-7zuVdqQph",
+      "target": "Kw2F4NF5ft",
+      "relation": "parent"
+    },
+    {
+      "source": "e00et6f6dL",
+      "target": "-7zuVdqQph",
+      "relation": "parent"
+    },
+    {
+      "source": "JwbLfLkcEU",
+      "target": "-7zuVdqQph",
+      "relation": "parent"
+    },
+    {
+      "source": "y-Dl7Fvaid",
+      "target": "Kw2F4NF5ft",
+      "relation": "parent"
+    },
+    {
+      "source": "568XV2PI8m",
+      "target": "ti8k6dGTZU",
+      "relation": "parent"
+    },
+    {
+      "source": "LM23fwk2PU",
+      "target": "4cWPTtuFR4",
+      "relation": "parent"
+    },
+    {
+      "source": "BWqje-T7K7",
+      "target": "LM23fwk2PU",
+      "relation": "parent"
+    },
+    {
+      "source": "vR04kdR1kB",
+      "target": "LM23fwk2PU",
+      "relation": "parent"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "vR04kdR1kB",
+      "relation": "parent"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "vR04kdR1kB",
+      "relation": "parent"
+    },
+    {
+      "source": "UWi04lVlwt",
+      "target": "LM23fwk2PU",
+      "relation": "parent"
+    },
+    {
+      "source": "jXF7uaAr4p",
+      "target": "4cWPTtuFR4",
+      "relation": "parent"
+    },
+    {
+      "source": "zxYRByH0sI",
+      "target": "jXF7uaAr4p",
+      "relation": "parent"
+    },
+    {
+      "source": "D4qkGHtqJ1",
+      "target": "zxYRByH0sI",
+      "relation": "parent"
+    },
+    {
+      "source": "G1xUSuelSP",
+      "target": "zxYRByH0sI",
+      "relation": "parent"
+    },
+    {
+      "source": "QBQ-kLLUVt",
+      "target": "zxYRByH0sI",
+      "relation": "parent"
+    },
+    {
+      "source": "OfGre87vAF",
+      "target": "jXF7uaAr4p",
+      "relation": "parent"
+    },
+    {
+      "source": "ZSJkzLTjsR",
+      "target": "OfGre87vAF",
+      "relation": "parent"
+    },
+    {
+      "source": "7CkhhJzf9T",
+      "target": "OfGre87vAF",
+      "relation": "parent"
+    },
+    {
+      "source": "3pi0aYhfte",
+      "target": "OfGre87vAF",
+      "relation": "parent"
+    },
+    {
+      "source": "FJsAoNl5ny",
+      "target": "OfGre87vAF",
+      "relation": "parent"
+    },
+    {
+      "source": "yg7rp9svaI",
+      "target": "FJsAoNl5ny",
+      "relation": "parent"
+    },
+    {
+      "source": "pcETud9232",
+      "target": "FJsAoNl5ny",
+      "relation": "parent"
+    },
+    {
+      "source": "btNvUkgYXo",
+      "target": "OfGre87vAF",
+      "relation": "parent"
+    },
+    {
+      "source": "bwFCU5de1u",
+      "target": "OfGre87vAF",
+      "relation": "parent"
+    },
+    {
+      "source": "k7kBKNHf-7",
+      "target": "4cWPTtuFR4",
+      "relation": "parent"
+    },
+    {
+      "source": "5HyLxM2H6l",
+      "target": "k7kBKNHf-7",
+      "relation": "parent"
+    },
+    {
+      "source": "_osTXde8JY",
+      "target": "k7kBKNHf-7",
+      "relation": "parent"
+    },
+    {
+      "source": "w4LiuNDrhY",
+      "target": "k7kBKNHf-7",
+      "relation": "parent"
+    },
+    {
+      "source": "qJkZicfJMe",
+      "target": "4cWPTtuFR4",
+      "relation": "parent"
+    },
+    {
+      "source": "yPFirMFHOl",
+      "target": "qJkZicfJMe",
+      "relation": "parent"
+    },
+    {
+      "source": "F77HypBcxZ",
+      "target": "yPFirMFHOl",
+      "relation": "parent"
+    },
+    {
+      "source": "M6VhhIedMM",
+      "target": "yPFirMFHOl",
+      "relation": "parent"
+    },
+    {
+      "source": "fft8daUKu5",
+      "target": "yPFirMFHOl",
+      "relation": "parent"
+    },
+    {
+      "source": "xZivKZIpDp",
+      "target": "yPFirMFHOl",
+      "relation": "parent"
+    },
+    {
+      "source": "wmKy2gAqF_",
+      "target": "qJkZicfJMe",
+      "relation": "parent"
+    },
+    {
+      "source": "h_srUVsRRe",
+      "target": "wmKy2gAqF_",
+      "relation": "parent"
+    },
+    {
+      "source": "s8AOA0BV97",
+      "target": "wmKy2gAqF_",
+      "relation": "parent"
+    },
+    {
+      "source": "1mp4NHIZHZ",
+      "target": "s8AOA0BV97",
+      "relation": "parent"
+    },
+    {
+      "source": "NIu6gMtdEp",
+      "target": "wmKy2gAqF_",
+      "relation": "parent"
+    },
+    {
+      "source": "vSFZcq84C1",
+      "target": "qJkZicfJMe",
+      "relation": "parent"
+    },
+    {
+      "source": "XAcxZN9g2u",
+      "target": "vSFZcq84C1",
+      "relation": "parent"
+    },
+    {
+      "source": "-6Pha2ekkM",
+      "target": "vSFZcq84C1",
+      "relation": "parent"
+    },
+    {
+      "source": "4l_YIAGOau",
+      "target": "-6Pha2ekkM",
+      "relation": "parent"
+    },
+    {
+      "source": "nqg4wXPovI",
+      "target": "vSFZcq84C1",
+      "relation": "parent"
+    },
+    {
+      "source": "Za5sNzhnN9",
+      "target": "aipe0hMBw8",
+      "relation": "dependency"
+    },
+    {
+      "source": "_R9clPBHWG",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "fQrAopeyqU",
+      "target": "_R9clPBHWG",
+      "relation": "dependency"
+    },
+    {
+      "source": "9S8l2Vhjaq",
+      "target": "bfhZl8oiZk",
+      "relation": "dependency"
+    },
+    {
+      "source": "_S76Xq6C1y",
+      "target": "5XthugFUq",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "d9mCk-PABC",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "nWkXTHl1Gq",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "RHUf5Ncu2I",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "zX-35OYxUX",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "fQrAopeyqU",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "9S8l2Vhjaq",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "mgzHr2hg7O",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "4fAzCfrKw0",
+      "relation": "dependency"
+    },
+    {
+      "source": "doSROx1tYf",
+      "target": "yAX8pQDTpy",
+      "relation": "dependency"
+    },
+    {
+      "source": "HlMqJTcvhu",
+      "target": "oGI63QS7ml",
+      "relation": "dependency"
+    },
+    {
+      "source": "3N04Zk2irl",
+      "target": "oGI63QS7ml",
+      "relation": "dependency"
+    },
+    {
+      "source": "-2Aieu91Y7",
+      "target": "HlMqJTcvhu",
+      "relation": "dependency"
+    },
+    {
+      "source": "ehWkkmiaHk",
+      "target": "HlMqJTcvhu",
+      "relation": "dependency"
+    },
+    {
+      "source": "ehWkkmiaHk",
+      "target": "-2Aieu91Y7",
+      "relation": "dependency"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "3ELQcVNsIn",
+      "target": "eP0x3abHae",
+      "relation": "dependency"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "uqWcNzmvrr",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "Ru8BzoTOVE",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "7xdBHVt4UZ",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "Btx9yp_LZG",
+      "target": "Ru8BzoTOVE",
+      "relation": "dependency"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "uMLCIlUADv",
+      "target": "zvdI2X2KaQ",
+      "relation": "dependency"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "EmnTMb5BoR",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "LdUDK1MzYp",
+      "relation": "dependency"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "wV2NBGDbj8",
+      "relation": "dependency"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "Za5sNzhnN9",
+      "relation": "dependency"
+    },
+    {
+      "source": "RI1Gtd255A",
+      "target": "q_5pR73Kmr",
+      "relation": "dependency"
+    },
+    {
+      "source": "dZ1jkMkNLX",
+      "target": "uMLCIlUADv",
+      "relation": "dependency"
+    },
+    {
+      "source": "dZ1jkMkNLX",
+      "target": "EmnTMb5BoR",
+      "relation": "dependency"
+    },
+    {
+      "source": "dZ1jkMkNLX",
+      "target": "RI1Gtd255A",
+      "relation": "dependency"
+    },
+    {
+      "source": "GWC6qhna6z",
+      "target": "7xdBHVt4UZ",
+      "relation": "dependency"
+    },
+    {
+      "source": "GWC6qhna6z",
+      "target": "Btx9yp_LZG",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "eP0x3abHae",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "dlGhiwO36g",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "Jzv32n2oJd",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "zvdI2X2KaQ",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "9qETF0Os5w",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "3ELQcVNsIn",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "uqWcNzmvrr",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "Ru8BzoTOVE",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "7xdBHVt4UZ",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "Btx9yp_LZG",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "uMLCIlUADv",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "EmnTMb5BoR",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "nNqKuJcQXd",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "FT9FeMrGF9",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "dZ1jkMkNLX",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "GWC6qhna6z",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "b8WLSClsAd",
+      "relation": "dependency"
+    },
+    {
+      "source": "73VjHtP2o5",
+      "target": "zHWD47IZlC",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "unmSnfk76I",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "FLoWLhfx4X",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "-2Aieu91Y7",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "nNqKuJcQXd",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "FT9FeMrGF9",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "dZ1jkMkNLX",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "GWC6qhna6z",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "b8WLSClsAd",
+      "relation": "dependency"
+    },
+    {
+      "source": "YRFRKPGNhC",
+      "target": "KB797HNXKR",
+      "relation": "dependency"
+    },
+    {
+      "source": "7_rS6X942h",
+      "target": "73VjHtP2o5",
+      "relation": "dependency"
+    },
+    {
+      "source": "7_rS6X942h",
+      "target": "YRFRKPGNhC",
+      "relation": "dependency"
+    },
+    {
+      "source": "YQTk_VNujs",
+      "target": "mgzHr2hg7O",
+      "relation": "dependency"
+    },
+    {
+      "source": "_tpgedFqYd",
+      "target": "zaScP4JA66",
+      "relation": "dependency"
+    },
+    {
+      "source": "kKyps4Brxx",
+      "target": "YQTk_VNujs",
+      "relation": "dependency"
+    },
+    {
+      "source": "8y4bEcS-On",
+      "target": "_tpgedFqYd",
+      "relation": "dependency"
+    },
+    {
+      "source": "8y4bEcS-On",
+      "target": "kKyps4Brxx",
+      "relation": "dependency"
+    },
+    {
+      "source": "_FD6rM-IyW",
+      "target": "unmSnfk76I",
+      "relation": "dependency"
+    },
+    {
+      "source": "_FD6rM-IyW",
+      "target": "FLoWLhfx4X",
+      "relation": "dependency"
+    },
+    {
+      "source": "_FD6rM-IyW",
+      "target": "-2Aieu91Y7",
+      "relation": "dependency"
+    },
+    {
+      "source": "kZ8HSTRb_G",
+      "target": "unmSnfk76I",
+      "relation": "dependency"
+    },
+    {
+      "source": "kZ8HSTRb_G",
+      "target": "FLoWLhfx4X",
+      "relation": "dependency"
+    },
+    {
+      "source": "kZ8HSTRb_G",
+      "target": "ehWkkmiaHk",
+      "relation": "dependency"
+    },
+    {
+      "source": "zHie61ofUr",
+      "target": "ptsTQ_uVCT",
+      "relation": "dependency"
+    },
+    {
+      "source": "UgGTEd0inM",
+      "target": "ptsTQ_uVCT",
+      "relation": "dependency"
+    },
+    {
+      "source": "kSSUQEvMCZ",
+      "target": "Vjfg721k1V",
+      "relation": "dependency"
+    },
+    {
+      "source": "LHjW6jspj0",
+      "target": "mgzHr2hg7O",
+      "relation": "dependency"
+    },
+    {
+      "source": "LHjW6jspj0",
+      "target": "7xdBHVt4UZ",
+      "relation": "dependency"
+    },
+    {
+      "source": "LHjW6jspj0",
+      "target": "Btx9yp_LZG",
+      "relation": "dependency"
+    },
+    {
+      "source": "6O6AcwmsbU",
+      "target": "7xdBHVt4UZ",
+      "relation": "dependency"
+    },
+    {
+      "source": "y-Dl7Fvaid",
+      "target": "FT9FeMrGF9",
+      "relation": "dependency"
+    },
+    {
+      "source": "y-Dl7Fvaid",
+      "target": "dZ1jkMkNLX",
+      "relation": "dependency"
+    },
+    {
+      "source": "y-Dl7Fvaid",
+      "target": "GWC6qhna6z",
+      "relation": "dependency"
+    },
+    {
+      "source": "y-Dl7Fvaid",
+      "target": "b8WLSClsAd",
+      "relation": "dependency"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "_FD6rM-IyW",
+      "relation": "dependency"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "kZ8HSTRb_G",
+      "relation": "dependency"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "zHie61ofUr",
+      "relation": "dependency"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "UgGTEd0inM",
+      "relation": "dependency"
+    },
+    {
+      "source": "7_vJJ-EH8H",
+      "target": "eH-JXIPuzi",
+      "relation": "dependency"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "_FD6rM-IyW",
+      "relation": "dependency"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "kZ8HSTRb_G",
+      "relation": "dependency"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "zHie61ofUr",
+      "relation": "dependency"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "UgGTEd0inM",
+      "relation": "dependency"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "eH-JXIPuzi",
+      "relation": "dependency"
+    },
+    {
+      "source": "623FlVXCaU",
+      "target": "OWASXzhr-a",
+      "relation": "dependency"
+    },
+    {
+      "source": "btNvUkgYXo",
+      "target": "7CkhhJzf9T",
+      "relation": "dependency"
+    },
+    {
+      "source": "bwFCU5de1u",
+      "target": "yg7rp9svaI",
+      "relation": "dependency"
+    },
+    {
+      "source": "bwFCU5de1u",
+      "target": "pcETud9232",
+      "relation": "dependency"
+    },
+    {
+      "source": "xZivKZIpDp",
+      "target": "5XthugFUq",
+      "relation": "dependency"
+    },
+    {
+      "source": "1mp4NHIZHZ",
+      "target": "xZivKZIpDp",
+      "relation": "dependency"
+    },
+    {
+      "source": "4l_YIAGOau",
+      "target": "xZivKZIpDp",
+      "relation": "dependency"
+    },
+    {
+      "source": "4l_YIAGOau",
+      "target": "1mp4NHIZHZ",
+      "relation": "dependency"
+    }
+  ]
+}

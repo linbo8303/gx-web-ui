@@ -1,1 +1,2 @@
-export { default as Waterfall } from './Waterfall';
+export * from './Dashboard';
+export * from './HollyGrail';

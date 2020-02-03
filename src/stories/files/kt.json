@@ -1,0 +1,1110 @@
+{
+  "id": "nbW0U78h",
+  "name": "数学",
+  "type": "taxonomy",
+  "children": [
+    {
+      "id": "KrCeLv-1t",
+      "name": "初中数学",
+      "type": "taxonomy",
+      "children": [
+        {
+          "id": "Ea40PeUsEB",
+          "name": "数与式",
+          "type": "knowledgeTaxonomy",
+          "children": [
+            {
+              "id": "EelX5CrFGy",
+              "name": "有理数",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "L6gX3wM5R",
+                  "name": "正数和负数",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "0FL2nNWmj",
+                  "name": "有理数定义",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "5XthugFUq",
+                  "name": "数轴",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "ru3kYXSmd",
+                  "name": "相反数",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "5uHCkoTRh",
+                  "name": "绝对值",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "GIS-nbal2z",
+                  "name": "近似数和有效数字",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "aipe0hMBw8",
+                  "name": "倒数",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "igHT9q6w03",
+                  "name": "有理数的加减法",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "d9mCk-PABC",
+                      "name": "有理数的加法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "nWkXTHl1Gq",
+                      "name": "加法运算律",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "RHUf5Ncu2I",
+                      "name": "有理数的减法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "zX-35OYxUX",
+                      "name": "加减混合运算",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "aRzCC8s2Gd",
+                      "name": "加减混合运算的应用",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "KHX_Npu3oc",
+                  "name": "有理数的乘除法",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "LdUDK1MzYp",
+                      "name": "有理数的乘法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "wV2NBGDbj8",
+                      "name": "乘法运算律",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "Za5sNzhnN9",
+                      "name": "有理数的除法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "q_5pR73Kmr",
+                      "name": "乘除混合运算",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "_Z2TT5MFwp",
+                      "name": "乘除混合运算的应用",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "qLtqAFG9qR",
+                  "name": "有理数的乘方",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "_R9clPBHWG",
+                      "name": "乘方的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "bfhZl8oiZk",
+                      "name": "乘方的性质",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "LQ524DNpOQ",
+                      "name": "非负数的性质：偶次方",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "-QVJN_-t96",
+                      "name": "科学计数法",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "dnPXgdljov",
+                          "name": "科学计数法表示较小的数",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "NqTT60_NYU",
+                          "name": "科学计数法表示较大的数",
+                          "type": "knowledge"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "IY-wZcr-PL",
+                  "name": "有理数的混合运算及其应用",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "BceHn2gFof",
+                      "name": "有理数的混合运算",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "XyTrgUfPhC",
+                      "name": "有理数的混合运算的应用",
+                      "type": "knowledge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "-DdwPQkf6a",
+              "name": "无理数",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "gpp-9_LA0S",
+                  "name": "无理数定义",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "domBkv4i6X",
+                  "name": "平方根",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "fQrAopeyqU",
+                      "name": "算术平方根",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "9S8l2Vhjaq",
+                      "name": "平方根的概念和性质",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "mgzHr2hg7O",
+                      "name": "开平方",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "tLoiijzsjz",
+                      "name": "用户计算器开平方",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "oxW85YPRV5",
+                  "name": "立方根",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "4fAzCfrKw0",
+                      "name": "立方根的概念和性质",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "yAX8pQDTpy",
+                      "name": "开立方",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "ziDeK_7WYR",
+                      "name": "用计算器开立方",
+                      "type": "knowledge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "s_IDzALmjf",
+              "name": "实数",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "FVlMM1y3Mv",
+                  "name": "实数的概念和性质",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "_S76Xq6C1y",
+                  "name": "实数和数轴的对应关系",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "FEK2hTdE6z",
+                  "name": "实数的大小比较",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "gNoyuIAw7I",
+                  "name": "无理数估算",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "doSROx1tYf",
+                  "name": "实数的运算",
+                  "type": "knowledge"
+                }
+              ]
+            },
+            {
+              "id": "J2QQxUhUys",
+              "name": "整式",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "r018OZ2UM6",
+                  "name": "整式的相关概念",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "oGI63QS7ml",
+                      "name": "单项式",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "kSvOZQgrmA",
+                      "name": "多项式",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "tqyLZAsyVO",
+                      "name": "整式的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "HlMqJTcvhu",
+                      "name": "同类项",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "3N04Zk2irl",
+                      "name": "幂的排列",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "Iywz7_tZjJ",
+                  "name": "整式的加减",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "unmSnfk76I",
+                      "name": "去括号",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "FLoWLhfx4X",
+                      "name": "添括号",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "-2Aieu91Y7",
+                      "name": "合并同类项",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "ehWkkmiaHk",
+                      "name": "整式的加减和化简求值",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "7355NSXJQ8",
+                  "name": "整式的乘除",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "sl9en2ghJh",
+                      "name": "整式的幂运算",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "eP0x3abHae",
+                          "name": "积的乘方",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "dlGhiwO36g",
+                          "name": "幂的乘方",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "Jzv32n2oJd",
+                          "name": "同底数幂的乘法",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "zvdI2X2KaQ",
+                          "name": "同底数幂的除法",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "9qETF0Os5w",
+                          "name": "零指数幂",
+                          "type": "knowledge"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "0ucx47kAj1",
+                      "name": "整式的乘法",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "3ELQcVNsIn",
+                          "name": "单项式乘以单项式",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "uqWcNzmvrr",
+                          "name": "单项式乘以多项式",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "Ru8BzoTOVE",
+                          "name": "多项式乘以多项式",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "7xdBHVt4UZ",
+                          "name": "完全平方公式",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "Btx9yp_LZG",
+                          "name": "平方差公式",
+                          "type": "knowledge"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "BZtN9ikIE4",
+                      "name": "整式的除法",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "uMLCIlUADv",
+                          "name": "单项式除以单项式",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "EmnTMb5BoR",
+                          "name": "多项式除以多项式",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "RI1Gtd255A",
+                          "name": "整式的乘除混合运算",
+                          "type": "knowledge"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "ZOa_Qc6Ols",
+                  "name": "因式分解",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "nNqKuJcQXd",
+                      "name": "因式分解的意义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "FT9FeMrGF9",
+                      "name": "公因式",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "dZ1jkMkNLX",
+                      "name": "提公因式法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "GWC6qhna6z",
+                      "name": "公式法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "b8WLSClsAd",
+                      "name": "十字相乘法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "ajq2shNbnI",
+                      "name": "因式分解的应用",
+                      "type": "knowledge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "HT4aBm4yYg",
+              "name": "分式",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "Lfk-TWZ37A",
+                  "name": "分式的定义",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "hCzKuUPeCy",
+                      "name": "分式有意义的条件",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "lTTZPd4X2y",
+                      "name": "分式值为0的条件",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "zHWD47IZlC",
+                      "name": "分式的值",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "UpfZiEklBY",
+                  "name": "分式的基本性质",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "G56xRLGP2c",
+                      "name": "约分",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "AlQN4gtg-t",
+                      "name": "最简分式",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "KB797HNXKR",
+                      "name": "通分",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "oZoijrs0hI",
+                      "name": "最简公分母",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "nXUyZlRyqY",
+                  "name": "分式的运算",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "73VjHtP2o5",
+                      "name": "分式的乘除法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "RZTmsYOW8m",
+                      "name": "分式的乘方",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "FLjg7M04vI",
+                      "name": "负整数指数幂",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "YRFRKPGNhC",
+                      "name": "分式的加减法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "7_rS6X942h",
+                      "name": "分式的混合运算",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "megsj25t5N",
+                      "name": "分式的化简求值",
+                      "type": "knowledge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "vxul-ZQjtO",
+              "name": "二次根式",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "ej0nsXiL4K",
+                  "name": "二次根式的定义",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "zaScP4JA66",
+                      "name": "二次根式有意义的条件",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "YQTk_VNujs",
+                  "name": "二次根式的性质与化简",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "97evL_gNja",
+                  "name": "二次根式的运算",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "_tpgedFqYd",
+                      "name": "二次根式的乘除法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "mYY3niaQ8c",
+                      "name": "分母有理化",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "-3xngz1eSn",
+                      "name": "最简二次根式",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "kKyps4Brxx",
+                      "name": "二次根式的加减法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "7m-ppgil5z",
+                      "name": "同类二次根式",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "8y4bEcS-On",
+                      "name": "二次根式的混合运算",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "X_YLeeYzwo",
+                      "name": "二次根式的化简求值",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "5G3o1boVd2",
+                  "name": "二次根式的应用",
+                  "type": "knowledge"
+                }
+              ]
+            },
+            {
+              "id": "PHnLxAoAeF",
+              "name": "代数式",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "4yvHBZHBUH",
+                  "name": "用字母表示数",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "ixoYOosLJV",
+                  "name": "列代数式",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "8awtZGy6R4",
+                  "name": "代数式求值",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "Xx8BayuEMd",
+                  "name": "定义新运算",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "kOjZ1QlrBd",
+                  "name": "探索数与式的规律",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "WIT4ayXCVN",
+                  "name": "探索数字变化规律",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "8vlUB-C2CG",
+                  "name": "探索图形变化规律",
+                  "type": "knowledge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4cWPTtuFR4",
+          "name": "方程（组）与不等式（组）",
+          "type": "knowledgeTaxonomy",
+          "children": [
+            {
+              "id": "xQ1V8fKleH",
+              "name": "一元一次方程及其应用",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "OlXTX30-_M",
+                  "name": "方程的定义",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "glJ1FDyVTf",
+                  "name": "方程的解",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "ptsTQ_uVCT",
+                  "name": "等式的性质",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "20LvUD-118",
+                  "name": "一元一次方程的定义",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "Vjfg721k1V",
+                  "name": "根据数量关系列出方程",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "dLugEuP8fP",
+                  "name": "估计方程的解",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "TOUwVP6ZCf",
+                  "name": "解一元一次方程",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "_FD6rM-IyW",
+                      "name": "合并同类项",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "kZ8HSTRb_G",
+                      "name": "移项",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "zHie61ofUr",
+                      "name": "去括号",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "UgGTEd0inM",
+                      "name": "去分母",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "eH-JXIPuzi",
+                      "name": "求解含绝对值的一元一次方程",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "OWASXzhr-a",
+                      "name": "同解方程",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "kSSUQEvMCZ",
+                  "name": "一元一次方程的应用",
+                  "type": "knowledge"
+                }
+              ]
+            },
+            {
+              "id": "ti8k6dGTZU",
+              "name": "一元二次方程",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "hTnF-KiYhy",
+                  "name": "一元二次方程的定义",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "Q2HeQBF_My",
+                      "name": "一元二次方程的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "eYALofbtBv",
+                      "name": "一元二次方程的一般形式",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "WNtta6ZfAy",
+                      "name": "一元二次方程的解",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "Kw2F4NF5ft",
+                  "name": "解一元二次方程",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "LHjW6jspj0",
+                      "name": "直接开平方法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "6O6AcwmsbU",
+                      "name": "配方法",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "-7zuVdqQph",
+                      "name": "公式法",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "e00et6f6dL",
+                          "name": "根的判别式",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "JwbLfLkcEU",
+                          "name": "根与系数的关系",
+                          "type": "knowledge"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "y-Dl7Fvaid",
+                      "name": "因式分解法",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "568XV2PI8m",
+                  "name": "一元二次方程的应用",
+                  "type": "knowledge"
+                }
+              ]
+            },
+            {
+              "id": "LM23fwk2PU",
+              "name": "分式方程及其应用",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "BWqje-T7K7",
+                  "name": "分式方程的定义",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "vR04kdR1kB",
+                  "name": "解分式方程",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "7_vJJ-EH8H",
+                      "name": "换元法解分式方程",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "623FlVXCaU",
+                      "name": "分式方程的增根",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "UWi04lVlwt",
+                  "name": "分式方程的应用",
+                  "type": "knowledge"
+                }
+              ]
+            },
+            {
+              "id": "jXF7uaAr4p",
+              "name": "二元一次方程（组）",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "zxYRByH0sI",
+                  "name": "二元一次方程",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "D4qkGHtqJ1",
+                      "name": "二元一次方程的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "G1xUSuelSP",
+                      "name": "二元一次方程的解",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "QBQ-kLLUVt",
+                      "name": "解二元一次方程",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "OfGre87vAF",
+                  "name": "二元一次方程组",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "ZSJkzLTjsR",
+                      "name": "二元一次方程的应用",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "7CkhhJzf9T",
+                      "name": "二元一次方程组的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "3pi0aYhfte",
+                      "name": "二元一次方程组的解",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "FJsAoNl5ny",
+                      "name": "解二元一次方程组",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "yg7rp9svaI",
+                          "name": "代入消元法",
+                          "type": "knowledge"
+                        },
+                        {
+                          "id": "pcETud9232",
+                          "name": "加减消元法",
+                          "type": "knowledge"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "btNvUkgYXo",
+                      "name": "二元一次方程组的应用",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "bwFCU5de1u",
+                      "name": "同解方程组",
+                      "type": "knowledge"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "k7kBKNHf-7",
+              "name": "三元一次方程组",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "5HyLxM2H6l",
+                  "name": "三元一次方程组的定义",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "_osTXde8JY",
+                  "name": "解三元一次方程组",
+                  "type": "knowledge"
+                },
+                {
+                  "id": "w4LiuNDrhY",
+                  "name": "三元一次方程组的应用",
+                  "type": "knowledge"
+                }
+              ]
+            },
+            {
+              "id": "qJkZicfJMe",
+              "name": "一元一次不等式（组）及其应用",
+              "type": "knowledgeTaxonomy",
+              "children": [
+                {
+                  "id": "yPFirMFHOl",
+                  "name": "不等式（组）",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "F77HypBcxZ",
+                      "name": "不等式的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "M6VhhIedMM",
+                      "name": "不等式的性质",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "fft8daUKu5",
+                      "name": "不等式的解集",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "xZivKZIpDp",
+                      "name": "在数轴上表示不等式（组）的解集",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "wmKy2gAqF_",
+                  "name": "一元一次不等式",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "h_srUVsRRe",
+                      "name": "一元一次不等式的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "s8AOA0BV97",
+                      "name": "解一元一次不等式",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "1mp4NHIZHZ",
+                          "name": "一元一次不等式的整数解",
+                          "type": "knowledge"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "NIu6gMtdEp",
+                      "name": "一元一次不等式的应用",
+                      "type": "knowledge"
+                    }
+                  ]
+                },
+                {
+                  "id": "vSFZcq84C1",
+                  "name": "一元一次不等式组",
+                  "type": "knowledgeTaxonomy",
+                  "children": [
+                    {
+                      "id": "XAcxZN9g2u",
+                      "name": "一元一次不等式组的定义",
+                      "type": "knowledge"
+                    },
+                    {
+                      "id": "-6Pha2ekkM",
+                      "name": "解一元一次不等式组",
+                      "type": "knowledgeTaxonomy",
+                      "children": [
+                        {
+                          "id": "4l_YIAGOau",
+                          "name": "一元一次不等式组的整数解",
+                          "type": "knowledge"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "nqg4wXPovI",
+                      "name": "一元一次不等式组的应用",
+                      "type": "knowledge"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "OSr5z7BxF",
+      "name": "学科素养",
+      "type": "skill",
+      "children": [
+        {
+          "id": "SuVhBdWtV",
+          "name": "数感",
+          "type": "skill"
+        },
+        {
+          "id": "5KYu3CQBJ",
+          "name": "符号意识",
+          "type": "skill"
+        },
+        {
+          "id": "kTMmwFNBrr",
+          "name": "运算能力",
+          "type": "skill"
+        },
+        {
+          "id": "CH0G2mfC4N",
+          "name": "推理能力",
+          "type": "skill"
+        },
+        {
+          "id": "urZpC5TJYI",
+          "name": "应用意识",
+          "type": "skill"
+        },
+        {
+          "id": "Mh9n-ummQp",
+          "name": " 数感",
+          "type": "skill"
+        },
+        {
+          "id": "sVd-l0UXwV",
+          "name": " 推理能力",
+          "type": "skill"
+        },
+        {
+          "id": "4DN6pZ2chW",
+          "name": "模型思想",
+          "type": "skill"
+        }
+      ]
+    }
+  ]
+}
