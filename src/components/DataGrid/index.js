@@ -54,7 +54,8 @@ function EditableCell(props) {
 }
 
 function ColumnDropdown(props) {
-    const { columns, visibleColumns, onChange } = props;
+    const { visibleColumns, onChange } = props;
+    const columns = props.columns.filter(col => col.title.toLowerCase() !== "key");
 
     const isColumnVisible = col => visibleColumns.includes(col);
 
@@ -78,6 +79,19 @@ function ColumnDropdown(props) {
             <Button icon="table" />
         </Dropdown>
     )
+}
+
+function RadioGroup(props) {
+    const { filters, onChange } = props;
+    return (
+        <Radio.Group onChange={onChange} defaultValue={filters[0]}>
+            {filters.map(value =>
+                <Radio.Button value={value} key={value}>
+                    {value}
+                </Radio.Button>
+            )}
+        </Radio.Group>
+    );
 }
 
 class EditableTable extends React.Component {
@@ -138,6 +152,10 @@ class EditableTable extends React.Component {
         onSearch: PropTypes.func,
         onSave: PropTypes.func,
         onDelete: PropTypes.func,
+        filterLists: PropTypes.arrayOf(PropTypes.shape({
+            filters: PropTypes.arrayOf(PropTypes.string),
+            onFilter: PropTypes.func
+        })),
         showColumns: PropTypes.bool,
         pagination: PropTypes.shape({
             position: PropTypes.oneOf(['top', 'bottom', 'left', 'right']),
@@ -209,7 +227,7 @@ class EditableTable extends React.Component {
             },
         };
 
-        const { onSearch, showColumns, onSave, onDelete, rowSelectable, pagination, columns, ...others } = this.props;
+        const { filterLists, onSearch, showColumns, onSave, onDelete, rowSelectable, pagination, columns, ...others } = this.props;
         const { visibleColumns, selectedRowKeys } = this.state;
 
         const displayColumns = columns
@@ -268,6 +286,14 @@ class EditableTable extends React.Component {
                                 onChange={this.handleChangeVisibleColumns}
                             />
                         </Form.Item>
+                    }
+                    {filterLists && filterLists.length > 0 &&
+                        filterLists.map(({ filters, onFilter }) =>
+                            <RadioGroup
+                                filters={filters}
+                                onChange={onFilter}
+                            />
+                        )
                     }
                 </Form>
                 <EditableContext.Provider value={this.props.form}>
