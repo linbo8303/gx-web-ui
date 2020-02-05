@@ -148,7 +148,14 @@ class EditableTable extends React.Component {
 
     static propTypes = {
         dataSource: PropTypes.array.isRequired,
-        columns: PropTypes.array.isRequired,
+        columns: PropTypes.arrayOf(PropTypes.shape({
+            title: PropTypes.string.isRequired,
+            dataIndex: PropTypes.string.isRequired,
+            key: PropTypes.string.isRequired,
+            editable: PropTypes.bool,
+            sortable: PropTypes.bool,
+            sorter: PropTypes.func,
+        })).isRequired,
         onSearch: PropTypes.func,
         onSave: PropTypes.func,
         onDelete: PropTypes.func,
@@ -233,10 +240,15 @@ class EditableTable extends React.Component {
 
         const displayColumns = columns
             .filter(col => visibleColumns.includes(col.title))
-            .map(col => ({
-                ...col,
-                sorter: (a, b) => this.sorter(a, b, col.dataIndex),
-            }))
+            .map(col => {
+                if (!col.sortable || col.sorter) {
+                    return col;
+                }
+                return {
+                    ...col,
+                    sorter: (a, b) => this.sorter(a, b, col.dataIndex)
+                }
+            })
             .map(col => {
                 if (!col.editable) {
                     return col;

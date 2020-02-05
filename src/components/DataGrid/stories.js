@@ -39,6 +39,7 @@ const columns1 = [
         title: "Current status",
         dataIndex: "Current status",
         key: "Current status",
+        sortable: true,
         render: status => (
             <Badge color={statusColorMap[status]} text={status} />
         )
