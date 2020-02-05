@@ -63,4 +63,10 @@ export const dataGridDataSource = [
     {key: 17, name: 'Edward 17', age: 27, country: "England", address: "London Park no. 17"},
     {key: 18, name: 'Edward 18', age: 28, country: "England", address: "London Park no. 18"},
     {key: 19, name: 'Edward 19', age: 29, country: "England", address: "London Park no. 19"},
+];
+
+export const dataGridDataSource1 = [
+    {key: 0, Name: 'Li Long', "Date of birth": "12/01/2001", "Gender": "Male", "Arrival date": "03/03/2020", "School ID": 12345, "Homestay Host": "Sarah Smith", "Current status": "In homestay"},
+    {key: 1, Name: 'Xu Ping', "Date of birth": "1/03/2004", "Gender": "Female", "Arrival date": "04/06/2020", "School ID": 23456, "Homestay Host": "Tom Jones", "Current status": "Upcoming"},
+    {key: 2, Name: 'Wang Liang', "Date of birth": "10/01/2002", "Gender": "Male", "Arrival date": "02/05/2020", "School ID": 12345, "Homestay Host": "Jack Lurry", "Current status": "On holidays"},
 ]

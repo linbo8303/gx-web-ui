@@ -82,9 +82,9 @@ function ColumnDropdown(props) {
 }
 
 function RadioGroup(props) {
-    const { filters, onChange } = props;
+    const { filters, onChange, ...other } = props;
     return (
-        <Radio.Group onChange={onChange} defaultValue={filters[0]}>
+        <Radio.Group onChange={onChange} defaultValue={filters[0]} {...other}>
             {filters.map(value =>
                 <Radio.Button value={value} key={value}>
                     {value}
@@ -153,6 +153,7 @@ class EditableTable extends React.Component {
         onSave: PropTypes.func,
         onDelete: PropTypes.func,
         filterLists: PropTypes.arrayOf(PropTypes.shape({
+            label: PropTypes.string,
             filters: PropTypes.arrayOf(PropTypes.string),
             onFilter: PropTypes.func
         })),
@@ -266,7 +267,7 @@ class EditableTable extends React.Component {
                 <Form
                     layout="inline"
                     className="components-table-demo-control-bar"
-                    style={{ margin: 16 }}
+                    style={{ margin: 16, display: 'flex', justifyContent: 'flex-end' }}
                 >
                     {onSearch &&
                         <Form.Item>
@@ -288,12 +289,16 @@ class EditableTable extends React.Component {
                         </Form.Item>
                     }
                     {filterLists && filterLists.length > 0 &&
-                        filterLists.map(({ filters, onFilter }) =>
-                            <RadioGroup
-                                filters={filters}
-                                onChange={onFilter}
-                            />
-                        )
+                        <Form.Item label={"List filters:"}>
+                            {filterLists.map(({ filters, onFilter }, index) =>
+                                <RadioGroup
+                                    key={index}
+                                    filters={filters}
+                                    onChange={onFilter}
+                                    style={{ marginLeft: 8, marginRight: 8 }}
+                                />
+                            )}
+                        </Form.Item>
                     }
                 </Form>
                 <EditableContext.Provider value={this.props.form}>
